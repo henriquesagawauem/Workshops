@@ -23,6 +23,7 @@ A organização dos arquivos segue uma estrutura dividida por temas ou eventos, 
 ├── 📁 Análise de Dados/          # Códigos, datasets e anotações sobre Data Science
 │   ├── 📓 dia01_workshop_pandas.ipynb
 │   └── 📝 Anotações_Aula_01.md
+├── 📁 Docker/                    # Como buildar e rodar containers Docker
 ├── 📁 [Nome_Do_Futuro_Workshop]/ # Espaço para os próximos eventos
 └── 📄 README.md                  # Documentação principal do repositório
 
